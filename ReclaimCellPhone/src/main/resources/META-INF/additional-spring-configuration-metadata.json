@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "task.pool.corePoolSize",
+    "type": "java.lang.String",
+    "description": "A description for 'task.pool.corePoolSize'"
+  },
+  {
+    "name": "task.pool.maxPoolSize",
+    "type": "java.lang.String",
+    "description": "A description for 'task.pool.maxPoolSize'"
+  },
+  {
+    "name": "task.pool.keepAliveSeconds",
+    "type": "java.lang.String",
+    "description": "A description for 'task.pool.keepAliveSeconds'"
+  },
+  {
+    "name": "task.pool.queueCapacity",
+    "type": "java.lang.String",
+    "description": "A description for 'task.pool.queueCapacity'"
+  },
+  {
+    "name": "task.pool.corePoolSize",
+    "type": "java.lang.String",
+    "description": "A description for 'task.pool.corePoolSize'"
+  },
+  {
+    "name": "task.pool.maxPoolSize",
+    "type": "java.lang.String",
+    "description": "A description for 'task.pool.maxPoolSize'"
+  }
+]}
